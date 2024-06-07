@@ -1,0 +1,8 @@
+[
+    { "code": "USD", "name": "Долар США", "rate": 27.50 },
+    { "code": "EUR", "name": "Євро", "rate": 32.00 },
+    { "code": "UAH", "name": "Гривня", "rate": 1.00 },
+    { "code": "GBP", "name": "Фунт стерлінгів", "rate": 38.00 },
+    { "code": "JPY", "name": "Єна", "rate": 0.25 }
+  ]
+  
